@@ -4,7 +4,7 @@
   "private": false,
   "main": "dist/demot-ui.umd.min.js",
   "author": {
-    "name": "Joey"
+    "name": "dhy"
   },
   "scripts": {
     "serve": "vue-cli-service serve",
